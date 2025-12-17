@@ -169,12 +169,6 @@ Data quality control principles
 
 ## 8. Author
 
-John Irungu
-AI-Assisted Survey Designer & Data Quality Specialist
-📍 Kenya | East Africa
-
-## 8. Author
-
 John Maina Irungu.
 AI-Assisted Survey Designer & Data Quality Specialist
 📍 Kenya | East Africa# surveycto-xlsform-portfolio
