@@ -172,4 +172,3 @@ Data quality control principles
 John Maina Irungu.
 AI-Assisted Survey Designer & Data Quality Specialist
 📍 Kenya | East Africa# surveycto-xlsform-portfolio
-school-feeding-coordination/
